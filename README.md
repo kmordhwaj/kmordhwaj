@@ -1,10 +1,12 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Mordhwaj</h1>
 <h3 align="center">A Passionate Full Stack Developer who had graduated in Mechanical Engineering</h3>
-<img align="right" alt="coding" width="300" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmordhwaj&label=Profile%20views&color=0e75b6&style=flat" alt="kmordhwaj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmordhwaj" alt="kmordhwaj" /></a> </p>
+
+<img align="right" alt="coding" width="300" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif"/>
 
 - 🔭 I’m currently working on [dotnet-rest-api](https://github.com/kmordhwaj/dotnet-rest-api)
 
